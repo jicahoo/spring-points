@@ -10,5 +10,6 @@ Learn spring points
   * 熟练你所用的操作系统。ubuntu。软件的CRUD要懂。
   * 适合的IDE，并且熟悉IDE。JebBrains
   * 版本兼容问题也要搞清楚
+  * 常见的代码例子（可运行的）
 * 高效浏览代码的环境
 * 专门花时间学习包管理工具（Maven, Gradle...)
