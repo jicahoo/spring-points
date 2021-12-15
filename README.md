@@ -19,3 +19,13 @@ Learn spring points
 * 专门花时间学习包管理工具（Maven, Gradle...)
 * 研究者在研究一些具体代码行为时，设计一个研究代码的流程图？研究者应该打开什么界面，在各个界面中，是如何流转的，以达到研究者的目标的？或者状态图？研究者在研究这个框架的时候处于什么状态，遇到什么问题，如何反应（去google)，如何进去下一个状态, 又是如何进入一个错误的方向的。  
 * 在更高层次去看，研究者在从入门到精通？研究者会经历什么，路径什么？什么能证明研究者在一步一步前进，直到精通。
+
+# Tools focusing on code reading
+* https://plugins.jetbrains.com/plugin/12304-call-graph
+* SourceTrail
+* SourceInsight
+* SourceGraph
+* OpenGrok
+* https://codemap.app/
+* https://plugins.jetbrains.com/plugin/16701-appmap (also support VS code?)
+* https://appland.com/docs/appmap-overview.html
