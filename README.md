@@ -32,3 +32,4 @@ Learn spring points
 * Online code explore: Github, SourceGraph, OpenGrok (Web).  Fast; Sometimes, we need to explore code online.
 * Offline code explore (Download code to your computer): SourceInsight, SourceTrail;  When you haven't download, need time to download it. 
 * 除了阅读代码，还要会阅读代码历史.Github commit/PR, diff. 这是另外一个话题。不是此处的重点。
+* 代码调用可视化的好处，可以让你看看你的代码调用关系是否混乱，如果混乱，有可视化的帮助，你也以更低的成本研究出如何调整和重构。如果没有这个，你就是在森林里穿梭，除非你是个最强大脑，脑海中可以绘制出全局地图，否则你就会迷路，更谈不上重构了。这也像不看地图玩游戏，肯定被秒杀。
