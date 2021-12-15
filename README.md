@@ -31,4 +31,4 @@ Learn spring points
 * https://appland.com/docs/appmap-overview.html
 * Online code explore: Github, SourceGraph, OpenGrok (Web).  Fast; Sometimes, we need to explore code online.
 * Offline code explore (Download code to your computer): SourceInsight, SourceTrail;  When you haven't download, need time to download it. 
-* 除了阅读代码，还要会阅读代码历史.Github commit/PR, diff.
+* 除了阅读代码，还要会阅读代码历史.Github commit/PR, diff. 这是另外一个话题。不是此处的重点。
