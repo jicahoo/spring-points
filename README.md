@@ -29,3 +29,5 @@ Learn spring points
 * https://codemap.app/
 * https://plugins.jetbrains.com/plugin/16701-appmap (also support VS code?)
 * https://appland.com/docs/appmap-overview.html
+* Online code explore: Github, SourceGraph, OpenGrok (Web).  Fast; Sometimes, we need to explore code online.
+* Offline code explore (Download code to your computer): SourceInsight, SourceTrail;  When you haven't download, need time to download it. 
