@@ -23,7 +23,7 @@ Learn spring points
   * 下载代码，环境准备的过程略去，假设代码环境已经配好，在IDE里，有个可编译和可运行的代码，二进制的构件也可以匹配到源代码。如果没有，就要专门花精力整理好。
   * 应当有个地方记录note, note里还可以放截图，可以画图。最好两个大屏幕。1. IDE ,  2. Offical Reference Doc (例如spring refrence doc:https://docs.spring.io/spring-framework/docs/5.3.14/reference/pdf/core.pdf) 3.  Word to record note and Google for searching; 4. Git to manage the code and store the notes. 5. Other code reading tool: SourceTrail? SourceInsight? Linux Tool? 4. VMWare+Ubuntu: Run/Debug env. some times we can't run the code in IDE.
   * 探索代码的时候，常见的问题。我脑海里，现在毫无想法。头脑风暴（胡扯）一下。问题可能分不同层次，高层次：系统是如何启动的，系统是如何关闭的。低层次：找到了一个感兴趣的函数，到这个函数的调用栈，调用这个函数的源头是什么。不同语言的问题不一样，如果是python, 你可能还要问这个变量的类型是什么。遇到实在不理解的地方，是要跳过去还是要去Google?
-  * 如何回答上面的工具？什么思路，什么工具。
+  * 如何回答上面的工具？什么思路，什么工具。 不仅要积累工具的用法,  还要积累研究思路。 才能更高效地积累新的知识点（鱼）。
   * 探索代码一些技巧。静态探索：用可视化工具看调用关系,如SourceTrail，动态探索：在目标点抛异常，看stack.
   * 代码的复杂度到是多少？复杂到很难看懂？那说明这也不是一份好代码。能不看就不看吧。著名的项目都是要管控复杂度的，听说Linux的源码函数的平均行数很短。
   * 代码的复杂度在哪里？抽象？面向对象的抽象层次越多越复杂。可能你没能掌握面向对象，所以看不懂人家写的面向对象的代码。
